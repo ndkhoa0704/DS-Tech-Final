@@ -1,2 +1,0 @@
-explore.ipynb
-* Kernel -> Restart & Run All
