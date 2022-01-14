@@ -1,0 +1,3 @@
+WalmartEDA.ipynb and Walmart.csv must be in the same folder
+To run:
+- Select Kernel -> Restart & Run all
