@@ -1,4 +1,4 @@
-# DS-Tech-Final
+# Walmart-sales-analysis
 * School final project
 ___
 # Contributors
